@@ -1,24 +1,6 @@
 testfile.txt
 
-add another thing
-add something
-
-adding something and pushing to upstream directly.
-Inserting a modification here.
-
-trying an arc land
-
-some modification 1 (changed)
-
-here too.
-Inserting a modification here too.
-
-some amended thing (amended again)
+This is a test file.  Feel free to edit it as you wish.
 
 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-This is a test file for line widths
-
-123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
