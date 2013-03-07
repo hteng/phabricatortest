@@ -4,5 +4,7 @@ This is a test file.  Feel free to edit it as you wish.
 
 Here's edit #2
 
+Line added here.
+
 Hello, I am adding a line here.
 
