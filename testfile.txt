@@ -2,3 +2,5 @@ testfile.txt
 
 This is a test file.  Feel free to edit it as you wish.
 
+Hello, I am adding a line here.
+
